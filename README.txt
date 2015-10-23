@@ -1,7 +1,7 @@
 PACKAGE
 
 package goautoneg
-import "bitbucket.org/ww/goautoneg"
+import "gopkg.in/beatgammit/goautoneg"
 
 HTTP Content-Type Autonegotiation.
 
